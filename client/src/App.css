@@ -1,0 +1,11 @@
+.app-shell {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+}
+
+.app-shell h1 {
+  margin: 0;
+}
